@@ -40,4 +40,4 @@
   * test.txt file content will be saved in uppercase format
 
 ### UML
-![UML: Lab 17](../assets/lab-17-uml.jpg)
+![UML: Lab 17](./assets/lab-17-uml.jpg)
