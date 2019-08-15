@@ -1,0 +1,27 @@
+{
+  "name": "lab-17",
+  "version": "1.0.0",
+  "description": "### Authors: Jonny and Adriana",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jonnygraybill/lab-17.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jonnygraybill/lab-17/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jonnygraybill/lab-17#readme",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "util": "^0.12.1"
+  }
+}
