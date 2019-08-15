@@ -6,9 +6,9 @@
 # Event Driven Messaging Server
 
 ### Links and Resources
-* [submission PR]() 
+* [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/lab-17/pull/1) 
 
-* [travis]([![Build Status](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-11.svg?branch=auth)](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-11))
+* [travis]([![Build Status](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-17.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-17))
 
 
 ### Modules
